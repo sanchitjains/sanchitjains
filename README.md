@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mohitkss.github.io/) & [Github](https://github.com/MoHitksS)
 
-- 📝 I regularly Practice DSA at [leetcode]()
+- 📟 I  Practice DSA at [leetcode]()
 
 - 📫 How to reach me [Email](mailto:mohitkumarsharma40@gmail.com) & [LinkedIn](https://linkedin.com/in/mohit-sharma-66176314a)
 
