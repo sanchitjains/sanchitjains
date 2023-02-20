@@ -1,21 +1,27 @@
 
-<h1 align="center">Hi 👋, I'm Sanchit Jain.</h1>
-<h3 align="center">I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
+<h1 align="left">Hi 👋, I'm Sanchit Jain </h1>
+<h3 align="left">I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agramom&label=Profile%20views&color=0e75b6&style=flat" alt="agramom" /> </p>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
 
 - 🔭 I’m currently working on **Something New**
 
 - 🌱 I’m currently learning **React-Redux**
 
-- 📫 How to reach me **sanchitjain99@outlook.com**
+- 👨‍💻 All of my projects are available at [Portfolio](https://agramom.github.io/) & [Github](https://github.com/Agramom)
 
-- ⚡ Fun fact **I am**
+- 📟 I  Practice DSA at [leetcode](https://www.leetcode.com/caseyjones0208)
+
+- 📫 How to reach me [Email](sanchitjain99@outlook.com) & [LinkedIn](https://www.linkedin.com/in/sanchit-jain-1279b0191/)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Tr4JaRtllSROzZWTEwdR4aAUXlfb5CLR/view?usp=sharing)
+
+- ⚡ Fun fact **I am Sarcastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanchit-jain-1279b0191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanchit-jain-1279b0191/" height="30" width="40" /></a>
-<a href="https://instagram.com/caseyjones@0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caseyjones@0208" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanchit-jain-1279b0191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanchit-jain-1279b0191/" height="30" width="40" /></a>
+<a href="https://instagram.com/caseyjones0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caseyjones0208" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/caseyjones0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="caseyjones0208" height="30" width="40" /></a>
 </p>
 
