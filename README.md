@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i1Jy0zFz7yJUVq2ezXENW9Lmu-bYFcvH/view)
 
-- ⚡ Fun fact **I am Sarcastic**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
