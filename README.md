@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [Email](sanchitjain99@outlook.com) & [LinkedIn](https://www.linkedin.com/in/sanchit-jain-1279b0191/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i1Jy0zFz7yJUVq2ezXENW9Lmu-bYFcvH/View)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i1Jy0zFz7yJUVq2ezXENW9Lmu-bYFcvH/share)
 
 - ⚡ Fun fact **I am Sarcastic**
 
