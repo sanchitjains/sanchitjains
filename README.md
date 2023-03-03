@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React-Redux**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://agramom.github.io/) & [Github](https://github.com/Agramom)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanchitjains.github.io/) & [Github](https://github.com/sanchitjains)
 
 - 📟 I  Practice DSA at [leetcode](https://www.leetcode.com/caseyjones0208)
 
@@ -42,9 +42,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agramom&show_icons=true&locale=en&layout=compact&theme=dracula" alt="agramom" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitjains&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sanchit" /></p>
 <br/><br/><br/><br/><br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agramom&show_icons=true&locale=en&theme=dracula" alt="agramom" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitjains&show_icons=true&locale=en&theme=dracula" alt="sanchit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agramom&theme=dracula" alt="agramom" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitjains&theme=dracula" alt="sanchit" /></p>
