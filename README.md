@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React-Redux**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sanchitjains.github.io/) & [Github](https://github.com/sanchitjains)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanchitjains.github.io/sanchit_portfolio) & [Github](https://github.com/sanchitjains)
 
 - 📟 I  Practice DSA at [leetcode](https://www.leetcode.com/caseyjones0208)
 
@@ -43,8 +43,8 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitjains&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sanchit" /></p>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitjains&show_icons=true&locale=en&theme=dracula" alt="sanchit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitjains&theme=dracula" alt="sanchit" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitjains&theme=dracula" alt="sanchit" /></p>
