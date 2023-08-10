@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Sanchit Jain </h1>
-<h3 align="left">I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
+<h3 align="left">I am a Versatilist and Front-End Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
 
